@@ -1,0 +1,37 @@
+                     saved E:\MachineLearning\schizophrenia\conn_project01.mat
+                      Done
+2025-Jul-16 13:36  : ERROR DESCRIPTION:
+                      
+                     Error using matlab.ui.Figure/set
+                     Invalid or deleted object.
+                     Error in conn (line 1238)
+                     Error in conn_menumanager (line 120)
+                     CONN18.b
+                     SPM compiled
+                     Matlab v.2018b
+                     project: CONN18.b
+                     storage: 136.3Gb available
+                      
+                     ans =
+                       <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+                        1
+2025-Jul-16 13:46  : ERROR DESCRIPTION:
+                      
+                     Error using gunzip>gunzipwrite (line 217)
+                     File "E:/MachineLearning/schizophrenia/dataset/ds004302/sub-01/func/sub-01_task-speech_bold.nii.gz" is not in GZIP format.
+                     Error in gunzip>gunzipEntries (line 155)
+                     Error in gunzip (line 91)
+                     Error in conn_gz2nii (line 12)
+                     Error in conn_getinfo (line 13)
+                     Error in conn_file (line 11)
+                     Error in conn (line 1637)
+                     Error in conn_filesearchtool (line 222)
+                     CONN18.b
+                     SPM compiled
+                     Matlab v.2018b
+                     project: CONN18.b
+                     storage: 136.3Gb available
+                      
+                     ans =
+                       <a href="matlab:helpPopup logical" style="font-weight:bold">logical</a>
+                        1

@@ -1,0 +1,1 @@
+# fMRI-based-Schizophrenia-Detection-using-AI.
